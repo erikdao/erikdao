@@ -1,8 +1,8 @@
 ### Hej! I'm [@erikdao](https://twitter.com/eridao) (Erik Dao) 👋
 
-I'm a machine learning engineer from Hanoi, Vietnam. 🇻🇳
+I'm a machine learning engineer base in Stockholm, Sweden. 🇸🇪
 
-Currently, I'm doing my master studies in machine learning at KTH Royal Institute of Technology in Stockholm, Sweden. 🇸🇪
+I have just finished my master studies in machine learning at KTH Royal Institute of Technology.
 
 I enjoy building web products in Django, React, AWS, etc. I have been working as a full-stack developer for four years before I started my master.
 
