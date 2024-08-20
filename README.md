@@ -1,14 +1,10 @@
 ### Hej! I'm [@erikdao](https://twitter.com/eridao) (Erik Dao) 👋
 
-I'm a machine learning engineer base in Stockholm, Sweden. 🇸🇪
+I'm an MLOps Engineer based Stockholm, Sweden. 🇸🇪
 
-I have just finished my master studies in machine learning at KTH Royal Institute of Technology.
+Starting from 2020, I've dived deeper into machine learning/deep learning, especially computer vision. My main studies and works have been on object detection, and semantic segmentation with some of the state-of-the-art models such as vision transformer.
 
-I enjoy building web products in Django, React, AWS, etc. I have been working as a full-stack developer for four years before I started my master.
-
-Starting from 2020, I've dived deeper into machine learning/deep learning, especially computer vision. My main studies and works have been on object detection, semantic segmentation with some of the state-of-the-art models such as vision transformer.
-
-I'm looking for opportunities to work in machine learning in the industry.
+Recently, I've started my post as an MLOps Engineer at Epidemic Sound, Stockholm Sweden. I'm now more into tinkering around all aspects on MLOps.
 
 You can find me on:
 * [My website: https://erikdao.com](https://erikdao.com)
